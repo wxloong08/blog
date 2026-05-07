@@ -1,5 +1,7 @@
 ---
 title: "url-reader Benchmark：测试方法论与初步数据"
+slug: url-reader-benchmark
+description: "3 个真实 URL 的第一轮基准测试：OpenCLI Browser 和 Firecrawl 的实际表现与清洗效果。"
 date: 2026-05-07
 tags: ["engineering", "benchmark"]
 ---

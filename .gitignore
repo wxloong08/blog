@@ -1,3 +1,17 @@
 public/
 .hugo_build.lock
 resources/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp

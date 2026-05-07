@@ -1,5 +1,7 @@
 ---
 title: "让 Claude Code 的搜索更好用：SearXNG + url-reader 工作流"
+slug: searxng-url-reader-workflow
+description: "用 SearXNG 补齐搜索，用 url-reader 补齐正文清洗，拆成两段解决 agent 的网页阅读问题。"
 date: 2026-05-07
 tags: ["engineering", "ai-toolchain"]
 ---

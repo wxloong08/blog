@@ -24,6 +24,10 @@ params:
   sidebar:
     emoji: ⚡
     subtitle: Agent 调研链路 · 搜索与清洗 · VPS 工具环境
+    avatar:
+      enabled: true
+      local: true
+      src: img/avatar.svg
 
   article:
     math: false
